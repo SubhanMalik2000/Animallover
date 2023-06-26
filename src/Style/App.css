@@ -1,0 +1,19 @@
+.button{
+    background-color: aquamarine;
+    padding: 2% 15%;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 20px;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Animals-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
